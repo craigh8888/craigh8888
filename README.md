@@ -5,7 +5,7 @@ I'm a passionate web developer specialising in WordPress and Shopify, based in t
 ## About Me
 - **Age:** 29
 - **Location:** UK
-- **Current Role:** Backend Web Developer
+- **Current Role:** Backend Web Developer specialising in WP SASS Plugin Development
 
 In my professional life, I dive deep into:
 - **WordPress** & **Shopify**: Creating dynamic, user-centric websites, SASS plugins and e-commerce solutions.
@@ -24,11 +24,11 @@ For fun, I explore the world of **FiveM**, developing custom mods and scripts in
 - WordPress & Shopify for robust, scalable web solutions
 
 ## Current Projects
-🔭 I'm currently in deep development of a WP Based SASS plugin.
+🔭 **WP SaaS Plugin:** I'm currently in deep development of a Software as a Service (SaaS) plugin for WordPress. Having already been a lead player in a past WP SaaS Project, I'm bringing my experience to this new venture.
 
-🔭 In in my spare time, I'm expanding my expertise in FiveM mod development, utilising front end technologies like svelte & other JS wrappers, while continuing to refine my web development skills.
+🔭 **FiveM Mod Development:** In my spare time, I'm expanding my expertise in FiveM mod development, utilising front-end technologies like Svelte which can be used in FiveM/CFX, along with other JavaScript wrappers, all while continuing to refine my web development skills.
 
-## Have a project in mind? 
-- ** Reach out via the discord link ** 
+## Have a project in mind?
+- **Join the conversation on Discord** [![Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289DA)](https://discord.gg/rMnuDrbzKj)
 
 Let's connect and build something amazing together!
