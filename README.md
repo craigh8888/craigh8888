@@ -16,7 +16,7 @@ For fun, I explore the world of **FiveM**, developing custom mods and scripts in
 
 ## Skills
 - **Languages:** PHP, JavaScript, HTML, CSS, Lua
-- **Frameworks/Libraries:** Vue.js, Gutenberg
+- **Frameworks/Libraries:** Vue.js, Node, Gutenberg
 - **Platforms:** WordPress, Shopify, Magento, (FiveM)
 
 ## Technologies I Love To Use
